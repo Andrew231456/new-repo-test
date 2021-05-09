@@ -8,7 +8,12 @@ public class Print {
 		System.out.println(s);
 	}
 	
-	public String GetText() {
-		return "Hey!";
+	public String SayHey() {
+		return "Hey ";
 	}
+	
+	public String SayClass() {
+		return "Class!";
+	}
+	
 }
