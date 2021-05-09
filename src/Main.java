@@ -8,5 +8,6 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello World.");
 		System.out.println(_test2.SayHey() + _test2.SayClass());
+		System.out.println("Finished Program");
 	}
 }
